@@ -80,23 +80,23 @@ const App = ({ isServerInfo }) => {
         <Text style={{ display: "block" }}>
           ⭐️ Please star this{" "}
           <a
-            href="https://github.com/ethereum-boilerplate/ethereum-boilerplate/"
+            href="https://discord.gg/Nzwb65UG"
             target="_blank"
             rel="noopener noreferrer"
           >
-            boilerplate
+            Look out for Njangi Academy comming out soon
           </a>
-          , every star makes us very happy!
+          , make sure to join our discord for more updates!
         </Text>
 
         <Text style={{ display: "block" }}>
-          🙋 You have questions? Ask them on the {""}
+          🙋 You have questions? Ask them on the {"Discord channel"}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://forum.moralis.io/t/ethereum-boilerplate-questions/3951/29"
+            href="https://discord.gg/Nzwb65UG"
           >
-            Moralis forum
+            Njangi Docs
           </a>
         </Text>
 
@@ -105,9 +105,9 @@ const App = ({ isServerInfo }) => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplat"
+            href="https://nkefuan.gitbook.io/njangi/"
           >
-            Moralis
+            NJangi Academy and Njangi NFT will be launching soon. 
           </a>
         </Text>
       </Footer>

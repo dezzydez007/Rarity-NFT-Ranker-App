@@ -1,6 +1,6 @@
 {
-  "name": "ethereum-boilerplate",
-  "version": "0.1.0",
+  "name": "njnagi-nft-rarity-ranker",
+  "version": "0.0.1",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -50,5 +50,10 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/dezzydez007/Rarity-NFT-Ranker-App.git",
+  "author": "dezzydez007",
+  "license": "MIT",
+  "description": "Njangi NFT Rarity Ranker"
 }
