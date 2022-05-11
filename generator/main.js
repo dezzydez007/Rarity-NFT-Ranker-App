@@ -1,8 +1,8 @@
 const Moralis = require("moralis/node");
 const { timer } = require("rxjs");
 
-const serverUrl = "https://dpz42qqcacit.usemoralis.com:2053/server"; //Moralis Server Url here
-const appId = "a2vhdMmuJeJN2TP4e0MTHFkTcgoFEJaJhmj3KiD5"; //Moralis Server App ID here
+const serverUrl = "https://nrjqxzzzce3e.usemoralis.com:2053/server"; //Moralis Server Url here
+const appId = "p74UC9CjMf08hzNaePjD6TSgZuLnL1RXKTXstD3y"; //Moralis Server App ID here
 Moralis.start({ serverUrl, appId });
 
 const resolveLink = (url) => {
